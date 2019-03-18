@@ -1,0 +1,5 @@
+version: '2'
+services:
+  scala-java:
+    build: .
+    image: dryseawind/java-for-scala
