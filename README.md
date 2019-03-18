@@ -7,15 +7,15 @@ avoid unnecessary downloads and time consuming installations during build of app
 
 [image in dockerhub](https://hub.docker.com/r/dryseawind/java-for-scala)
 
-# Building a new version
+### Building a new version
 
 ``` ./build.sh ```
 
-# Current JDK version
+### Current JDK version
 
 AdoptOpenJKD: jdk8u202
 
-# Backgroud of OpenJDK after January 2019
+### Backgroud of OpenJDK after January 2019
 
 * The situation of JDK's so far:
 [Free Java](https://docs.google.com/document/d/1nFGazvrCvHMZJgFstlbzoHjpAVwv5DEdnaBr_5pKuHo/edit)
