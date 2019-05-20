@@ -3,7 +3,7 @@ baseimage for scala apps using sbt and universal plugin (zip)
 
 Base layer is the first layer for application images to be built on top.
 Since base layer changes are rare and happens only in long term updates it needs to build as own layer to
-avoid unnecessary downloads and time consuming installations during build of application layer. Only difference to AdoptOpenJDK's image is that zip is installed to handle app artifact
+avoid unnecessary downloads and time consuming installations during build of application layer. Only difference to AdoptOpenJDK's image is that zip is installed to handle app artifacts
 
 [image in dockerhub](https://hub.docker.com/r/dryseawind/java-for-scala)
 
